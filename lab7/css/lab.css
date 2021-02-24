@@ -1,0 +1,8 @@
+body {
+   background-image: linear-gradient(to right, yellow, red , #800080);
+   width: 1750px;
+   height: 800px;
+   border: 15px solid white;
+   padding: 50px;
+   margin: 20px;
+}
