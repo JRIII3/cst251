@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+}
+
+#content {
+background-image: linear-gradient(to right, red, purple);
+width: 1750px;
+height: 800px;
+border: 15px solid grey;
+padding: 50px;
+margin: 20px;
+}
+
+#content h2{
+color: grey;
+}
+
+img.thumbnail:hover,
+img.thumbnail:focus {
+width: 600px;
+height: 300px;
+}
