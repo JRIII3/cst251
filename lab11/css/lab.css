@@ -1,0 +1,35 @@
+#content {
+background-image: linear-gradient(to right, red, purple);
+width: 1750px;
+height: 1500px;
+border: 15px solid purple;
+padding: 50px;
+margin: 20px;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#content h1{
+color: white;
+font-family: "Impact, fantasy", fantasy;
+letter-spacing: 3px;
+}
+
+#content h2{
+color: white;
+text-transform: uppercase;
+}
+
+#sidebar {
+  position: sticky;
+  top: 0;
+  float: right;
+  width: 300px;
+  background-color: red;
+}
+
+#links {
+  font-size: 30px;
+  color: white;
+  width: 150px;
+  height: 125px;
+}
