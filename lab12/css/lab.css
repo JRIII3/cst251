@@ -1,0 +1,53 @@
+#content {
+background-image: linear-gradient(to right, #00ff55, blue);
+width: 1750px;
+height: 800px;
+border: 15px solid #00ff55;
+padding: 50px;
+margin: 20px;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#content h1{
+color: white;
+font-family: "Impact, fantasy", fantasy;
+letter-spacing: 3px;
+}
+
+#content h2{
+color: white;
+text-transform: uppercase;
+}
+
+#floated {
+  float: right;
+  border: 10px solid yellow;
+  padding: 50px;
+  width: 200px;
+}
+
+#center-horz {
+  border: 10px solid yellow;
+  padding: 50px;
+  width: 200px;
+  text-align: center;
+}
+
+#center-img {
+  border: 10px solid yellow;
+  padding: 50px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+#center-both {
+  border: 10px solid yellow;
+  padding: 50px;
+  width: 200px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
