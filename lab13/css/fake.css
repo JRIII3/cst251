@@ -1,0 +1,33 @@
+#content {
+width: 1750px;
+height: 700px;
+margin: 20px;
+padding: 50px;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#content h1{
+color: black;
+font-family: "Impact, fantasy", fantasy;
+font-size: 250px;
+position: relative;
+top: 100px;
+}
+
+#content p{
+color: white;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#intresseanmalan h3{
+  position: absolute;
+  top: 0px;
+  right: 25px;
+}
+
+iframe#fake {
+    width: 800px;
+    height: 500px;
+    resize: both;
+    overflow: hidden;
+}
