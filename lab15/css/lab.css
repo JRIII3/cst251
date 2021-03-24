@@ -1,0 +1,26 @@
+#content {
+background-image: linear-gradient(to right, red, yellow);
+width: 1750px;
+height: 900px;
+border: 15px solid red;
+padding: 50px;
+margin: 20px;
+font-family: "Lucida Console", "Courier New", monospace;
+border: 1px solid;
+padding: 10px;
+box-shadow: 5px 10px;
+border-radius: 75px;
+}
+
+#content h1{
+color: white;
+font-family: "Impact, fantasy", fantasy;
+letter-spacing: 3px;
+text-shadow: 4px 4px black;
+}
+
+img {
+filter: grayscale(100%);
+object-fit: cover;
+transform: rotate(-25deg);
+}
