@@ -1,0 +1,55 @@
+body {
+background-color: #9E9E9E;
+width: 1750px;
+height: 900px;
+padding: 50px;
+margin: 20px;
+font-family: "Lucida Console", "Courier New", monospace;
+border: 1px solid;
+padding: 10px;
+border-radius: 75px;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: white;
+  }
+}
+
+header {
+color: #FF0000;
+font-family: "Impact, fantasy", fantasy;
+letter-spacing: 3px;
+text-shadow: 4px 4px black;
+border: 2px solid #FF0000;
+}
+
+aside {
+  color: #00FF55;
+  font-family: "Impact, fantasy", fantasy;
+  letter-spacing: 3px;
+  text-shadow: 4px 4px black;
+  border: 2px solid #00FF55;
+}
+
+footer {
+color: #001AFF;
+font-family: "Impact, fantasy", fantasy;
+letter-spacing: 3px;
+text-shadow: 2px 2px black;
+border: 2px solid #001AFF;
+position: absolute;
+top: 500px;
+left:500px;
+}
+
+nav {
+color: #FF00C3;
+font-family: "Impact, fantasy", fantasy;
+letter-spacing: 3px;
+text-shadow: 2px 2px black;
+border: 2px solid #FF00C3;
+position: absolute;
+top: 500px;
+left: 1000px;
+}
