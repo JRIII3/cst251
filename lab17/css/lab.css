@@ -1,0 +1,43 @@
+body {
+background-color: #3D3D3D;
+width: 1750px;
+height: 900px;
+padding: 50px;
+margin: 20px;
+font-family: "Lucida Console", "Courier New", monospace;
+border: 1px solid;
+padding: 10px;
+border-radius: 75px;
+}
+
+header {
+color: #00FF55;
+font-family: "Impact, fantasy", fantasy;
+letter-spacing: 3px;
+text-shadow: 4px 4px black;
+border: 2px solid #00FF55;
+}
+
+section {
+color: #00FFFF;
+font-family: "Impact, fantasy", fantasy;
+letter-spacing: 3px;
+text-shadow: 2px 2px black;
+border: 2px solid #00FFFF;
+}
+
+footer {
+color: yellow;
+font-family: "Impact, fantasy", fantasy;
+letter-spacing: 3px;
+text-shadow: 2px 2px black;
+border: 2px solid yellow;
+}
+
+nav {
+color: #FF10F0;
+font-family: "Impact, fantasy", fantasy;
+letter-spacing: 3px;
+text-shadow: 2px 2px black;
+border: 2px solid #FF10F0;
+}

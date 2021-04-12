@@ -1,5 +1,5 @@
-#content {
-background-image: linear-gradient(to right, red, blue);
+body {
+background-color: grey;
 width: 1750px;
 height: 900px;
 border: 15px solid red;
