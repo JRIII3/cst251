@@ -1,0 +1,18 @@
+body {
+background-color: grey;
+width: 1750px;
+height: 900px;
+padding: 50px;
+margin: 20px;
+font-family: "Lucida Console", "Courier New", monospace;
+border: 1px solid;
+padding: 10px;
+border-radius: 75px;
+}
+
+header {
+color: #FF0000;
+font-family: "Impact, fantasy", fantasy;
+letter-spacing: 3px;
+text-shadow: 4px 4px black;
+}
